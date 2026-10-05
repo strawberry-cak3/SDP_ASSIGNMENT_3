@@ -109,11 +109,11 @@ The implementation strictly adheres to standard software engineering best practi
 Casting targeted spell 'Stifling Dagger' directly on Enemy Crystal Maiden!
 [Physical Damage] Applies 250 physical damage to Enemy Crystal Maiden (reduced by armor).
 
-Casting AoE spell 'Light Strike Array' around area: Roshpit!
+Casting AoE spell 'Sun Strike' around area: Roshpit!
 [Magical Damage] Deals 400 magic damage to all enemies in Roshpit (reduced by magic resistance).
 
 --- Hero activates spell modifier item ---
 
-Casting targeted spell 'Stifling Dagger' directly on Enemy Axe!
-[Magical Damage] Deals 250 magic damage to Enemy Axe (reduced by magic resistance).
+Casting targeted spell 'Arcane Orb' directly on Enemy Invoker!
+[Pure Damage] Deals 250 pure damage to Enemy Invoker (reduced by magic resistance).
 ```
