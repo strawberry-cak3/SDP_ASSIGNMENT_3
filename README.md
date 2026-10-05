@@ -3,7 +3,7 @@
 **Course:** Software Design Patterns  
 **Topic:** Structural Pattern — Bridge  
 **Domain:** Dota 2 Ability & Damage System
-**Student** Murodyan Mansur SE-2513
+**Student:** Murodyan Mansur SE-2513
 
 ---
 
